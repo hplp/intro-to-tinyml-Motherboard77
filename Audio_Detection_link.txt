@@ -1,1 +1,4 @@
+Link to the AudioDetect Edge-Impluse model. 2 datasets were created.
+One to detect "crystal" and inject noise data as "cactus".
+
 https://studio.edgeimpulse.com/studio/607936
