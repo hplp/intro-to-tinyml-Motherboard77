@@ -1,0 +1,6 @@
+Link to the AudioDetect Edge-Impluse model. 2 datasets were created.
+One to detect "crystal" and inject noise data as "cactus".
+
+https://studio.edgeimpulse.com/studio/607936
+
+For the Real-time simulation data, second column is the "cactus" dataset, followed by the "crystal" dataset in the third column. Once "crystal" is spoken via microphone of smartphone (ive used online simuator for the Ardiuno-NANO equivalent hardware), the probability od detection is shown high in the third column, otherwise high probabilty of detection in the second column. 
